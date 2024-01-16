@@ -20,8 +20,8 @@ def get_weather(api_key, city):
         return "Failed to fetch weather data."
 
 
-# Variable container storing an OpenWeatherMap API key (which comes from the website)
-api_key = 'de608900f455100ea24e103d21cb8050'
+# Variable container which will store an OpenWeatherMap API key. (this string is empty but you can put in an API key from the website)
+api_key = ''
 
 # Function about UI window
 def UI_window():
