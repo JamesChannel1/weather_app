@@ -1,4 +1,4 @@
 # weather_app
 weather app made using python.
 
-uses an API from Openweathermap website. API key used to access weather data in this script might expire later. 
+this script requires an API key from Openweathermap website. You can get an API key by making an account @ www.openweathermap.org
